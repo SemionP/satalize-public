@@ -1,0 +1,7 @@
+earthengine-api
+streamlit
+folium
+streamlit-folium
+pandas
+numpy
+google-genai
